@@ -1,4 +1,4 @@
-Sorting Pro le Project:
+Sorting Profile Project:
 
 Platform: Java.
 
